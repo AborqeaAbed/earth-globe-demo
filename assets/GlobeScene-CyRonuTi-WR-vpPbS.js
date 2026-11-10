@@ -1,4 +1,4 @@
-import{j as a,r as u,C as z}from"./index-CVxflFKn.js";import{C as rt,V as y,S as ot,O as it,u as j,a as N,b as st,T as tt,c as F,A as et,B as ct,M as D,g as lt,Q as nt,D as Y,d as ut,e as mt,f as dt,h as ht}from"./Stars-x5MHOv6s.js";import{T as ft}from"./Text-D8xSiP-q.js";const b=`
+import{j as a,r as u,C as z}from"./index-z6GBakmG.js";import{C as rt,V as y,S as ot,O as it,u as j,a as N,b as st,T as tt,c as F,A as et,B as ct,M as D,g as lt,Q as nt,D as Y,d as ut,e as mt,f as dt,h as ht}from"./Stars-Cpl-ocXz.js";import{T as ft}from"./Text-08Y0TVCW.js";const b=`
   varying vec2 vUv;
   varying vec3 vObjectDir;
   varying vec3 vWorldNormal;
