@@ -1,4 +1,4 @@
-import{j as o,r as l}from"./index-BGc70zMm.js";import{C as ae,V as x,S as ne,O as te,u as E,a as _,b as oe,T as Q,c as R,A as $,B as ie,M as k,g as re,d as se,e as le,f as ce,Q as ue,h as he}from"./Stars-BXfGmkU9.js";import{T as de}from"./Text--KXbUNUb.js";const D=`
+import{j as o,r as l}from"./index-CVxflFKn.js";import{C as ae,V as x,S as ne,O as te,u as E,a as _,b as oe,T as Q,c as R,A as $,B as ie,M as k,g as re,d as se,e as le,f as ce,Q as ue,h as he}from"./Stars-x5MHOv6s.js";import{T as de}from"./Text-D8xSiP-q.js";const D=`
   varying vec2 vUv;
   varying vec3 vObjectDir;
   varying vec3 vWorldNormal;
