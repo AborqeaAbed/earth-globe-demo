@@ -6,6 +6,19 @@
     <title>Interactive 3D Earth Globe — Live Demo</title>
     <meta name="description" content="Live demo of the Interactive 3D Earth Globe React Component. Three editions: Basic, Pro with geographic labels, and Extended with city search and navigation." />
     <link rel="icon" type="image/svg+xml" href="/earth-globe-demo/favicon.svg" />
+    <script>
+      // Demo page: always allow globe animation regardless of OS reduced-motion setting.
+      // The globe IS the product — visitors navigating to a demo explicitly want to see it.
+      var _origMM = window.matchMedia.bind(window);
+      window.matchMedia = function(q) {
+        if (q && q.indexOf('prefers-reduced-motion') !== -1) {
+          return { matches: false, media: q, onchange: null,
+            addListener: function(){}, removeListener: function(){},
+            addEventListener: function(){}, removeEventListener: function(){}, dispatchEvent: function(){ return false; } };
+        }
+        return _origMM(q);
+      };
+    </script>
     <script type="module" crossorigin src="/earth-globe-demo/assets/index-ibStusNN.js"></script>
     <link rel="stylesheet" crossorigin href="/earth-globe-demo/assets/index-Dh3nu0OM.css">
   </head>
