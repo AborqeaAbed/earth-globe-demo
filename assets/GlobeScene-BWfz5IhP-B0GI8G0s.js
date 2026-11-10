@@ -1,4 +1,4 @@
-import{j as a,r as o}from"./index-ibStusNN.js";import{C as O,V as T,S as P,O as W,u as C,a as L,b as V,c as E,A as z,B as U,T as G,d as Y,e as B,f as H}from"./Stars-DZ5zsKB6.js";const S=`
+import{j as a,r as o}from"./index-BmPnxc2D.js";import{C as O,V as T,S as P,O as W,u as C,a as L,b as V,c as E,A as z,B as U,T as G,d as Y,e as B,f as H}from"./Stars-Bdqrfw03.js";const S=`
   varying vec2 vUv;
   varying vec3 vObjectDir;
   varying vec3 vWorldNormal;
